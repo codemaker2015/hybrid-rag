@@ -1,0 +1,142 @@
+[
+  {
+    "product_id": "P1000",
+    "invoice_number": "RCP-2025-364",
+    "purchase_date": "2025-08-22",
+    "total": 2363.3,
+    "pdf_path": "./synthetic_data/receipts/p1000_receipt.pdf"
+  },
+  {
+    "product_id": "P1001",
+    "invoice_number": "SR-2025-762",
+    "purchase_date": "2025-06-26",
+    "total": 108.96,
+    "pdf_path": "./synthetic_data/receipts/p1001_receipt.pdf"
+  },
+  {
+    "product_id": "P1002",
+    "invoice_number": "RCP-2025-918",
+    "purchase_date": "2025-10-24",
+    "total": 246.64,
+    "pdf_path": "./synthetic_data/receipts/p1002_receipt.pdf"
+  },
+  {
+    "product_id": "P1003",
+    "invoice_number": "INV-2025-234",
+    "purchase_date": "2025-08-12",
+    "total": 190.51,
+    "pdf_path": "./synthetic_data/receipts/p1003_receipt.pdf"
+  },
+  {
+    "product_id": "P1004",
+    "invoice_number": "INV-2025-663",
+    "purchase_date": "2025-06-25",
+    "total": 2694.83,
+    "pdf_path": "./synthetic_data/receipts/p1004_receipt.pdf"
+  },
+  {
+    "product_id": "P1005",
+    "invoice_number": "INV-2025-612",
+    "purchase_date": "2025-07-25",
+    "total": 2640.49,
+    "pdf_path": "./synthetic_data/receipts/p1005_receipt.pdf"
+  },
+  {
+    "product_id": "P1006",
+    "invoice_number": "INV-2025-385",
+    "purchase_date": "2025-07-23",
+    "total": 1107.78,
+    "pdf_path": "./synthetic_data/receipts/p1006_receipt.pdf"
+  },
+  {
+    "product_id": "P1007",
+    "invoice_number": "SR-2025-515",
+    "purchase_date": "2025-08-12",
+    "total": 1626.94,
+    "pdf_path": "./synthetic_data/receipts/p1007_receipt.pdf"
+  },
+  {
+    "product_id": "P1008",
+    "invoice_number": "INV-2025-505",
+    "purchase_date": "2025-11-16",
+    "total": 880.73,
+    "pdf_path": "./synthetic_data/receipts/p1008_receipt.pdf"
+  },
+  {
+    "product_id": "P1009",
+    "invoice_number": "INV-2025-948",
+    "purchase_date": "2025-08-25",
+    "total": 2280.97,
+    "pdf_path": "./synthetic_data/receipts/p1009_receipt.pdf"
+  },
+  {
+    "product_id": "P1010",
+    "invoice_number": "RCP-2025-174",
+    "purchase_date": "2025-11-02",
+    "total": 2425.96,
+    "pdf_path": "./synthetic_data/receipts/p1010_receipt.pdf"
+  },
+  {
+    "product_id": "P1011",
+    "invoice_number": "SR-2025-433",
+    "purchase_date": "2025-10-13",
+    "total": 1369.48,
+    "pdf_path": "./synthetic_data/receipts/p1011_receipt.pdf"
+  },
+  {
+    "product_id": "P1012",
+    "invoice_number": "RCP-2025-405",
+    "purchase_date": "2025-07-05",
+    "total": 80.69,
+    "pdf_path": "./synthetic_data/receipts/p1012_receipt.pdf"
+  },
+  {
+    "product_id": "P1013",
+    "invoice_number": "INV-2025-292",
+    "purchase_date": "2025-11-19",
+    "total": 184.82,
+    "pdf_path": "./synthetic_data/receipts/p1013_receipt.pdf"
+  },
+  {
+    "product_id": "P1014",
+    "invoice_number": "SR-2025-395",
+    "purchase_date": "2025-07-05",
+    "total": 2599.66,
+    "pdf_path": "./synthetic_data/receipts/p1014_receipt.pdf"
+  },
+  {
+    "product_id": "P1015",
+    "invoice_number": "INV-2025-637",
+    "purchase_date": "2025-07-18",
+    "total": 156.57,
+    "pdf_path": "./synthetic_data/receipts/p1015_receipt.pdf"
+  },
+  {
+    "product_id": "P1016",
+    "invoice_number": "RCP-2025-656",
+    "purchase_date": "2025-10-12",
+    "total": 62.21,
+    "pdf_path": "./synthetic_data/receipts/p1016_receipt.pdf"
+  },
+  {
+    "product_id": "P1017",
+    "invoice_number": "SR-2025-674",
+    "purchase_date": "2025-06-26",
+    "total": 133.38,
+    "pdf_path": "./synthetic_data/receipts/p1017_receipt.pdf"
+  },
+  {
+    "product_id": "P1018",
+    "invoice_number": "RCP-2025-698",
+    "purchase_date": "2025-10-11",
+    "total": 15.15,
+    "pdf_path": "./synthetic_data/receipts/p1018_receipt.pdf"
+  },
+  {
+    "product_id": "P1019",
+    "invoice_number": "RCP-2025-453",
+    "purchase_date": "2025-10-03",
+    "total": 170.65,
+    "pdf_path": "./synthetic_data/receipts/p1019_receipt.pdf"
+  }
+]

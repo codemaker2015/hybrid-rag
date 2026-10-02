@@ -1,0 +1,262 @@
+[
+  {
+    "id": "P1000",
+    "name": "Laptop Elite",
+    "category": "Electronics",
+    "price": 2188.24,
+    "manufacturer": "ElectroMax",
+    "specs": {
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "processor": "Intel i5"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1000_receipt.pdf"
+  },
+  {
+    "id": "P1001",
+    "name": "Water Bottle Pro",
+    "category": "Sports & Outdoors",
+    "price": 100.89,
+    "manufacturer": "ActiveLife",
+    "specs": {
+      "capacity": "750ml",
+      "material": "Plastic",
+      "insulation": "Yes"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1001_receipt.pdf"
+  },
+  {
+    "id": "P1002",
+    "name": "Water Bottle Ultra",
+    "category": "Sports & Outdoors",
+    "price": 228.37,
+    "manufacturer": "OutdoorGear",
+    "specs": {
+      "capacity": "750ml",
+      "material": "Plastic",
+      "insulation": "No"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1002_receipt.pdf"
+  },
+  {
+    "id": "P1003",
+    "name": "Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 176.4,
+    "manufacturer": "FitZone",
+    "specs": {
+      "thickness": "8mm",
+      "material": "TPE",
+      "length": "68 inch"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1003_receipt.pdf"
+  },
+  {
+    "id": "P1004",
+    "name": "Smartphone Plus",
+    "category": "Electronics",
+    "price": 2495.21,
+    "manufacturer": "TechCorp",
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "screen": "6.7 inch"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1004_receipt.pdf"
+  },
+  {
+    "id": "P1005",
+    "name": "Laptop Elite",
+    "category": "Electronics",
+    "price": 2444.9,
+    "manufacturer": "DigitalWave",
+    "specs": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 5"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1005_receipt.pdf"
+  },
+  {
+    "id": "P1006",
+    "name": "Smartphone Ultra",
+    "category": "Electronics",
+    "price": 1025.72,
+    "manufacturer": "TechCorp",
+    "specs": {
+      "ram": "4GB",
+      "storage": "64GB",
+      "screen": "6.1 inch"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1006_receipt.pdf"
+  },
+  {
+    "id": "P1007",
+    "name": "Laptop Ultra",
+    "category": "Electronics",
+    "price": 1506.43,
+    "manufacturer": "TechCorp",
+    "specs": {
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "processor": "Intel i7"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1007_receipt.pdf"
+  },
+  {
+    "id": "P1008",
+    "name": "Smartphone Ultra",
+    "category": "Electronics",
+    "price": 1006.78,
+    "manufacturer": "DigitalWave",
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "screen": "6.7 inch"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1008_receipt.pdf"
+  },
+  {
+    "id": "P1009",
+    "name": "Laptop Ultra",
+    "category": "Electronics",
+    "price": 2112.01,
+    "manufacturer": "ElectroMax",
+    "specs": {
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel i5"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1009_receipt.pdf"
+  },
+  {
+    "id": "P1010",
+    "name": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "price": 2246.26,
+    "manufacturer": "ElectroMax",
+    "specs": {
+      "battery": "6 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noise_cancellation": "Active"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1010_receipt.pdf"
+  },
+  {
+    "id": "P1011",
+    "name": "Laptop Plus",
+    "category": "Electronics",
+    "price": 1268.04,
+    "manufacturer": "SmartDevices",
+    "specs": {
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 5"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1011_receipt.pdf"
+  },
+  {
+    "id": "P1012",
+    "name": "LED Bulb Set",
+    "category": "Home & Garden",
+    "price": 74.71,
+    "manufacturer": "GardenPro",
+    "specs": {
+      "wattage": "9W",
+      "color_temp": "Cool White",
+      "quantity": "4 pack"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1012_receipt.pdf"
+  },
+  {
+    "id": "P1013",
+    "name": "T-Shirt Ultra",
+    "category": "Clothing",
+    "price": 171.13,
+    "manufacturer": "StyleWear",
+    "specs": {
+      "material": "Cotton",
+      "size": "S",
+      "fit": "Slim"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1013_receipt.pdf"
+  },
+  {
+    "id": "P1014",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 2407.09,
+    "manufacturer": "DigitalWave",
+    "specs": {
+      "ram": "6GB",
+      "storage": "256GB",
+      "screen": "6.5 inch"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1014_receipt.pdf"
+  },
+  {
+    "id": "P1015",
+    "name": "Plant Pot Max",
+    "category": "Home & Garden",
+    "price": 144.97,
+    "manufacturer": "GardenPro",
+    "specs": {
+      "material": "Plastic",
+      "size": "Small",
+      "drainage": "Yes"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1015_receipt.pdf"
+  },
+  {
+    "id": "P1016",
+    "name": "LED Bulb Set Max",
+    "category": "Home & Garden",
+    "price": 57.6,
+    "manufacturer": "GardenPro",
+    "specs": {
+      "wattage": "12W",
+      "color_temp": "Cool White",
+      "quantity": "4 pack"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1016_receipt.pdf"
+  },
+  {
+    "id": "P1017",
+    "name": "LED Bulb Set Ultra",
+    "category": "Home & Garden",
+    "price": 123.5,
+    "manufacturer": "NatureSpace",
+    "specs": {
+      "wattage": "15W",
+      "color_temp": "Warm White",
+      "quantity": "4 pack"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1017_receipt.pdf"
+  },
+  {
+    "id": "P1018",
+    "name": "Plant Pot",
+    "category": "Home & Garden",
+    "price": 14.03,
+    "manufacturer": "NatureSpace",
+    "specs": {
+      "material": "Ceramic",
+      "size": "Small",
+      "drainage": "Yes"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1018_receipt.pdf"
+  },
+  {
+    "id": "P1019",
+    "name": "T-Shirt Max",
+    "category": "Clothing",
+    "price": 158.01,
+    "manufacturer": "TrendyThreads",
+    "specs": {
+      "material": "Cotton Blend",
+      "size": "L",
+      "fit": "Loose"
+    },
+    "receipt_path": "./synthetic_data/receipts/p1019_receipt.pdf"
+  }
+]
